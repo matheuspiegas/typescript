@@ -1,0 +1,6 @@
+//Arquivo referente a este projeto.
+{
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files"
+  }
+}
